@@ -3,7 +3,7 @@
 Analysis of a three-store bicycle retailer's sales, customers, products, inventory and staff, covering 2016–2018.
 The data is loaded into MySQL, queried with SQL, and charted in a Jupyter notebook.
 The goal is to answer common business questions: what sells, where, and who sells it.
-
+ 
 ## Project Files
 
 | File | Description |
